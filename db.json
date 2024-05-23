@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Ana Oliveira Dias",
+      "celular": "11 9 7171-6464",
+      "foto": "../img/ana-oliveira-dias.png",
+      "email": "ana@gmail.com",
+      "endereco": "Av. São Joaquim, 234",
+      "cidade": "Sorocaba"
+    },
+    {
+      "id": 2,
+      "nome": "Fernando Leonid",
+      "celular": "11 9 1112-3333",
+      "foto": "../img/logo.png",
+      "email": "fernando@gmail.com",
+      "endereco": "Rua dos padres, 555",
+      "cidade": "Osasco"
+    }
+  ]
+}
